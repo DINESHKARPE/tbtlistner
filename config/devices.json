@@ -1,0 +1,6 @@
+{
+    "debug"                 : false,
+    "port"                  : 8090,
+    "device_adapter"        : "ANDROID"
+
+}
